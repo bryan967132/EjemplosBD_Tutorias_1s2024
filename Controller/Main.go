@@ -23,9 +23,9 @@ func NewController() *Controller {
 }
 
 func (c *Controller) connect() bool {
-	var usuario = "admin"
-	var pass = "rV5kLCTLhRWAGR4t6j9B"
-	var host = "dbhospital.c7wamm8c8cu3.us-east-2.rds.amazonaws.com"
+	var usuario = "root"
+	var pass = "mypass"
+	var host = "localhost"
 	var port = 3306
 	var db_name = "hospital"
 	c.DB, c.err = sql.Open("mysql", fmt.Sprintf("%s:%s@tcp(%s:%d)/%s", usuario, pass, host, port, db_name))
