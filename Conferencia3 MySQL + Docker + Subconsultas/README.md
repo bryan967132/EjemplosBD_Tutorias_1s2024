@@ -1,7 +1,7 @@
 # Ejemplos de Subconsultas en MySQL sobre Docker
 
 ## Grabación
-[Link Grabación](https://drive.google.com/file/d/1CqdIHDUzxcXVwTNSWBYh7q4siDXlMyRF/view?usp=sharing)
+[Link Grabación](https://drive.google.com/file/d/1ipPp7p3Nf2mA8i5zbi_Tj1krw_Az--qL/view?usp=sharing)
 
 ## Resumen
 En esta sesión vimos un poco de Docker y cómo usar MySQL en un contenedor. Luego vimos un ejemplo práctico de subconsultas en MySQL tratando de ejemplificar un caso de una solicitud de un reporte.
